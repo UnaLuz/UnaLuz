@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hi there 👋 my name is Luz Cucarella
 
-<!--
-**UnaLuz/UnaLuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A Computer Programmer doing my best 😄
 
-Here are some ideas to get you started:
+## 🙋‍♀️ About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm from Argentina 🇦🇷
+
+My native language is Spanish and I can speak English as well 🇪🇸 🇺🇸
+
+### 🌱 Learning
+
+Currently I'm studying Computer Programming in a University in Argentina 🏫 but I'm also learning mobile development on my free time 📱
+
+### 🕹️ Hobbies
+
+I like a lot to play video games, on console or on my phone 🎮 but I'm just a casual player
+
+Also I enjoy to read books of mistery, thrillers or horror 📚
+
+## 📫 Reach Me
+
+🐦 [@UnaLuzDev](https://www.twitter.com/UnaLuzDev)
+
+🦄 [dev.to/unaluzdev](https://dev.to/unaluzdev)
