@@ -18,6 +18,8 @@ I like a lot to play video games, on console or on my phone 🎮 but I'm just a 
 
 Also I enjoy to read books of mistery, thrillers or horror 📚
 
+And I love art 🎨, sometimes I draw for fun and to relax ✏️
+
 ## 📫 Reach Me
 
 🐦 [@UnaLuzDev](https://www.twitter.com/UnaLuzDev)
